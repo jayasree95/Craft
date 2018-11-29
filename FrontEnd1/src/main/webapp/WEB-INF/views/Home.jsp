@@ -9,7 +9,7 @@
 </head>
 <body>
     WELCOME TO HOME PAGE
-    <img src="<c:url value='/resources/images/Logo.jpg'></c:url>" height="450px" width="1000px">
+    <img src="<c:url value='/resources/images/Logo1.jpg'></c:url>" height="450px" width="1000px">
 <jsp:include page="Footer.jsp"/>
 </body>
 </html>

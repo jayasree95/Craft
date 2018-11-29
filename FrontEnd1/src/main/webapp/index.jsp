@@ -16,7 +16,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Craft Site</title>
+<title>Crafter Corner</title>
 
 <div class="container">
 <style>
@@ -53,7 +53,7 @@ background-color: #4CAF50;
       height: 100%;
   }
 body  {
-      background-image: url("aa.jpg");
+      background-image: url("Logo.jpg");
       background-color: #cccccc;
 }
 </style>
@@ -63,7 +63,7 @@ body  {
 
 
 <div class="container">
-<img src="<c:url value='/resources/images/aa.jpg'></c:url>" height="200px" width="1135px">
+<img src="<c:url value='/resources/images/Logo.jpg'></c:url>" height="200px" width="1135px">
 <nav class="navbar navbar-default" id="navbar-bg">
 <div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" 
@@ -83,7 +83,7 @@ body  {
 <li><a href="<c:url value="/all/getregistrationform"></c:url>">Sign Up</a></li>	
 <li><a href="<c:url value="/login"></c:url>">Login</a></li>	
 <li><a href="<c:url value="/logout"></c:url>">Logout</a></li>
-<img src="<c:url value='/resources/images/aa.jpg'></c:url>" height="30px" width="70px"></a></li>	
+<img src="<c:url value='/resources/images/Logo.jpg'></c:url>" height="30px" width="70px"></a></li>	
 </ul>
 </div>
 </head>
